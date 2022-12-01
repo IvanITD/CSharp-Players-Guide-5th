@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level 3 - HelloWorld", "Level 3 - HelloWorld\Level 3 - HelloWorld.csproj", "{5657CC97-2D8D-47D2-8DAB-C6610A02B6B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 3 - HelloWorld", "Level 3 - HelloWorld\Level 3 - HelloWorld.csproj", "{5657CC97-2D8D-47D2-8DAB-C6610A02B6B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level 3 - HelloWorld-(Challenge)", "Level 3 - HelloWorld-(Challenge)\Level 3 - HelloWorld-(Challenge).csproj", "{A332A8FB-0248-4F72-A81C-B66D426686A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 3 - HelloWorld-(Challenge)", "Level 3 - HelloWorld-(Challenge)\Level 3 - HelloWorld-(Challenge).csproj", "{A332A8FB-0248-4F72-A81C-B66D426686A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMakingsOfAProgrammer", "TheMakingsOfAProgrammer\TheMakingsOfAProgrammer.csproj", "{42F05BB0-C2B2-4ABC-98A8-96B9719059FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A332A8FB-0248-4F72-A81C-B66D426686A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A332A8FB-0248-4F72-A81C-B66D426686A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A332A8FB-0248-4F72-A81C-B66D426686A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F05BB0-C2B2-4ABC-98A8-96B9719059FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F05BB0-C2B2-4ABC-98A8-96B9719059FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F05BB0-C2B2-4ABC-98A8-96B9719059FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F05BB0-C2B2-4ABC-98A8-96B9719059FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
