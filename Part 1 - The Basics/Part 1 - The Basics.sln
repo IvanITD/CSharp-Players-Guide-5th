@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 3 - HelloWorld", "Lev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 3 - HelloWorld-(Challenge)", "Level 3 - HelloWorld-(Challenge)\Level 3 - HelloWorld-(Challenge).csproj", "{A332A8FB-0248-4F72-A81C-B66D426686A5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMakingsOfAProgrammer", "TheMakingsOfAProgrammer\TheMakingsOfAProgrammer.csproj", "{42F05BB0-C2B2-4ABC-98A8-96B9719059FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 3 - TheMakingsOfAProgrammer", "TheMakingsOfAProgrammer\Level 3 - TheMakingsOfAProgrammer.csproj", "{42F05BB0-C2B2-4ABC-98A8-96B9719059FE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolasAndTelim", "ConsolasAndTelim\ConsolasAndTelim.csproj", "{4A7A4FCE-2535-4A42-A9A3-5B88310295B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 3 - ConsolasAndTelim", "ConsolasAndTelim\Level 3 - ConsolasAndTelim.csproj", "{4A7A4FCE-2535-4A42-A9A3-5B88310295B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheThingNamer3000", "TheThingNamer3000\TheThingNamer3000.csproj", "{9EC7CB86-45AC-4813-AA2A-C1F8E0CAE683}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level 4 - TheThingNamer3000", "TheThingNamer3000\Level 4 - TheThingNamer3000.csproj", "{9EC7CB86-45AC-4813-AA2A-C1F8E0CAE683}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
