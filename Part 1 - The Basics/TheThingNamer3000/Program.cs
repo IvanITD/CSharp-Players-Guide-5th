@@ -18,3 +18,6 @@ string d = "3000";
 
 // Prints text to the console, while using interpolation
 Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!");
+
+/* The bug is that it prints double 'of' in the last console print. In order to fix it
+    we  need to remove the added 'of' in the text and then the program sould run fine!*/
