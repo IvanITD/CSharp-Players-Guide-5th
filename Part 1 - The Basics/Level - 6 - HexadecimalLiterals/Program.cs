@@ -14,20 +14,29 @@
     int ten = 0b1010;
 
 //      b) base 16 (hexadecimal digits)
-    int zero0 = 0xFF00FF;
-   /* int one1 = 0x;
-    int two2 = 0x;
-    int three3 = 0x;
-    int four4 = 0x;
-    int five5 = 0x;
-    int six6 = 0x;
-    int seven7 = 0x;
-    int eight8 = 0x;
-    int nine9 = 0x;
-    int ten10 = 0x;
-   */
+    int zero0 = 0x0;
+    int one1 = 0x1;
+    int two2 = 0x2;
+    int three3 = 0x3;
+    int four4 = 0x4;
+    int five5 = 0x5;
+    int six6 = 0x6;
+    int seven7 = 0x7;
+    int eight8 = 0x8;
+    int nine9 = 0x9;
+    int ten10 = 0xA;
 
 
 Console.WriteLine($"{zero} {zero0}");
+Console.WriteLine($"{one} {one1}");
+Console.WriteLine($"{two} {two2}");
+Console.WriteLine($"{three} {three3}");
+Console.WriteLine($"{four} {four4}");
+Console.WriteLine($"{five} {five5}");
+Console.WriteLine($"{six} {six6}");
+Console.WriteLine($"{seven} {seven7}");
+Console.WriteLine($"{eight} {eight8}");
+Console.WriteLine($"{nine} {nine9}");
+Console.WriteLine($"{ten} {ten10}");
 
 // I need to write the Hexadecimal numbers in programmers way
