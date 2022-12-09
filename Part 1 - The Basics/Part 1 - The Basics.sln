@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 3 - TheMakingsOfAProg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 3 - ConsolasAndTelim", "ConsolasAndTelim\Level 3 - ConsolasAndTelim.csproj", "{4A7A4FCE-2535-4A42-A9A3-5B88310295B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level 4 - TheThingNamer3000", "TheThingNamer3000\Level 4 - TheThingNamer3000.csproj", "{9EC7CB86-45AC-4813-AA2A-C1F8E0CAE683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level 4 - TheThingNamer3000", "TheThingNamer3000\Level 4 - TheThingNamer3000.csproj", "{9EC7CB86-45AC-4813-AA2A-C1F8E0CAE683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level - 6 - HexadecimalLiterals", "Level - 6 - HexadecimalLiterals\Level - 6 - HexadecimalLiterals.csproj", "{E98D4091-0DC5-4860-8041-F4FACFE499FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level - 6 - HexadecimalLiterals", "Level - 6 - HexadecimalLiterals\Level - 6 - HexadecimalLiterals.csproj", "{E98D4091-0DC5-4860-8041-F4FACFE499FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level - 6 -ScientificNotation", "Level - 6 -ScientificNotation\Level - 6 -ScientificNotation.csproj", "{FD0E74A1-B6CA-47AF-AB45-8CF8A38751DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E98D4091-0DC5-4860-8041-F4FACFE499FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E98D4091-0DC5-4860-8041-F4FACFE499FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E98D4091-0DC5-4860-8041-F4FACFE499FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0E74A1-B6CA-47AF-AB45-8CF8A38751DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0E74A1-B6CA-47AF-AB45-8CF8A38751DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0E74A1-B6CA-47AF-AB45-8CF8A38751DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0E74A1-B6CA-47AF-AB45-8CF8A38751DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
