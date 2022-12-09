@@ -39,4 +39,3 @@ Console.WriteLine($"{eight} {eight8}");
 Console.WriteLine($"{nine} {nine9}");
 Console.WriteLine($"{ten} {ten10}");
 
-// I need to write the Hexadecimal numbers in programmers way
