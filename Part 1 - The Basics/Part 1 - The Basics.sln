@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level - 6 - HexadecimalLite
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level - 6 -ScientificNotation", "Level - 6 -ScientificNotation\Level - 6 -ScientificNotation.csproj", "{FD0E74A1-B6CA-47AF-AB45-8CF8A38751DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheVariableShop", "TheVariableShop\TheVariableShop.csproj", "{0AE470AC-DC40-4592-96D9-9515EBEDDC1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level - 6 - TheVariableShop", "TheVariableShop\Level - 6 - TheVariableShop.csproj", "{0AE470AC-DC40-4592-96D9-9515EBEDDC1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
