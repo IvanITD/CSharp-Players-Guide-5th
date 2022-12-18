@@ -1,0 +1,8 @@
+The number, that will get the Duckbear have more remain that the ammount of eggs for each sister, is 3.
+
+In my code I have writen the solution on how to get the result from the division and the remainder.
+
+Division = 3 / 4 = 0.75 => The ammount of eggs that each Sister will get.
+Remainder = 3 % 4 = 3 => The remaining chocolate that the Duckbear will get.
+
+      
