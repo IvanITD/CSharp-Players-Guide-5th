@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConsolasAndTelim/1.0.0": {
+        "runtime": {
+          "ConsolasAndTelim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolasAndTelim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

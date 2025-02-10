@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\refint\ConsolasAndTelim.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\4. Challenge\ConsolasAndTelim\obj\Debug\net9.0\ref\ConsolasAndTelim.dll
