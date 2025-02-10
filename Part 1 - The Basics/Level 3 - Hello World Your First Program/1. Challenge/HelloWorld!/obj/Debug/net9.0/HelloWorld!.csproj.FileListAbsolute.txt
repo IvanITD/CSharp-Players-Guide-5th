@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\bin\Debug\net9.0\HelloWorld!.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\bin\Debug\net9.0\HelloWorld!.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\bin\Debug\net9.0\HelloWorld!.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\bin\Debug\net9.0\HelloWorld!.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\bin\Debug\net9.0\HelloWorld!.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\HelloWorld!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\HelloWorld!.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\HelloWorld!.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\HelloWorld!.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\HelloWorld!.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\HelloWorld!.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\refint\HelloWorld!.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\HelloWorld!.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\HelloWorld!.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\HelloWorld!\obj\Debug\net9.0\ref\HelloWorld!.dll

@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\WhatComesNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\WhatComesNext.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\WhatComesNext.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\WhatComesNext.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\WhatComesNext.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\bin\Debug\net9.0\WhatComesNext.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\bin\Debug\net9.0\WhatComesNext.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\bin\Debug\net9.0\WhatComesNext.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\bin\Debug\net9.0\WhatComesNext.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\bin\Debug\net9.0\WhatComesNext.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\WhatComesNext.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\refint\WhatComesNext.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\WhatComesNext.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\WhatComesNext.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 3 - Hello World Your First Program\2. Challenge\WhatComesNext\obj\Debug\net9.0\ref\WhatComesNext.dll
