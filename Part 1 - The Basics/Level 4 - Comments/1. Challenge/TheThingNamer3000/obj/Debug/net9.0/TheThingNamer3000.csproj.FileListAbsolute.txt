@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\bin\Debug\net9.0\TheThingNamer3000.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\bin\Debug\net9.0\TheThingNamer3000.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\bin\Debug\net9.0\TheThingNamer3000.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\bin\Debug\net9.0\TheThingNamer3000.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\bin\Debug\net9.0\TheThingNamer3000.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\TheThingNamer3000.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\TheThingNamer3000.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\TheThingNamer3000.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\TheThingNamer3000.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\TheThingNamer3000.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\refint\TheThingNamer3000.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\TheThingNamer3000.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\TheThingNamer3000.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\CSharp-Players-Guide-5th\Part 1 - The Basics\Level 4 - Comments\1. Challenge\TheThingNamer3000\obj\Debug\net9.0\ref\TheThingNamer3000.dll

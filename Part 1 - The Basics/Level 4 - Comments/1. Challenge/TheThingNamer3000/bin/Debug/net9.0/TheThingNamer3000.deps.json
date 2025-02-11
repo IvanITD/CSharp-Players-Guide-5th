@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TheThingNamer3000/1.0.0": {
+        "runtime": {
+          "TheThingNamer3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheThingNamer3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
