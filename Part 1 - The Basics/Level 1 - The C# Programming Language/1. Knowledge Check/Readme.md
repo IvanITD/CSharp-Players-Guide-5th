@@ -8,7 +8,7 @@
 1. **True/False**: C# is only for web development. => <b>False</b>
 2. **What framework does C# run on?**
    - A) Java  
-   - B) .NET  => ✅
+   - B) <b>.NET  => ✅</b>
    - C) Python  
    - D) Swift  
 
