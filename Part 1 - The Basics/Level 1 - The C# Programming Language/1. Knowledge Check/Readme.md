@@ -2,7 +2,6 @@
 
 ## ✅ Objectives
 - Check your knowledge with the following questions
-- Earn **25 XP**.
 
 ## ℹ️ Information
 Check your knowledge with the following questions:
