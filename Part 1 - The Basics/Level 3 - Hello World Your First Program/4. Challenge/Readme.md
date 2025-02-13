@@ -21,7 +21,7 @@ Noted: RB got bread.<br>
 </blockquote>
 
 ## 📖 Answers
-- The answer is in a C# program inside the folder, next to this readme file.
+- The answer is in a C# program inside the folder, next to this readme file
 
 <hr>
 📅 **Last Updated:** `2025-02-13`
