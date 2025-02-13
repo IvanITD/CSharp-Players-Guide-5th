@@ -13,13 +13,13 @@ working, but all my variable names got reset! I don't understand what they do!" 
 following program:
 
 <blockquote>
-Console.WriteLine("What kind of thing are we talking about?");
-string a = Console.ReadLine();
-Console.WriteLine("How would you describe it? Big? Azure? Tattered?");
-string b = Console.ReadLine();
-string c = "of Doom";
-string d = "3000";
-Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!");
+Console.WriteLine("What kind of thing are we talking about?");<br>
+string a = Console.ReadLine();<br>
+Console.WriteLine("How would you describe it? Big? Azure? Tattered?");<br>
+string b = Console.ReadLine();<br>
+string c = "of Doom";<br>
+string d = "3000";<br>
+Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!");<br>
 </blockquote>
 
 ## 📖 Answers
