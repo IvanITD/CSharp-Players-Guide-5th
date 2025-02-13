@@ -1,8 +1,7 @@
 # Challenge - Consolas and Telim (50 XP)
 
 ## ✅ Objectives
-- Check your knowledge with the following questions
-- Earn **25 XP**.
+- Make a program that runs as shown below, including taking a name from the user
 
 ## ℹ️ Information
 These lands have not seen Programming in a long time due to the blight of the Uncoded One. Even old
@@ -21,13 +20,8 @@ Who is the bread for?<br>
 Noted: RB got bread.<br>
 </blockquote>
 
-## 📖 Questions
-1. **True/False**: C# is only for web development. => <b>False</b>
-2. **What framework does C# run on?**
-   - A) Java  
-   - B) <b>.NET  => ✅</b>
-   - C) Python  
-   - D) Swift  
+## 📖 Answers
+- The answer is in a C# program inside the folder, next to this readme file.
 
 <hr>
 📅 **Last Updated:** `2025-02-13`
