@@ -18,6 +18,24 @@ This example shows one of the places where this might be useful. Colors are ofte
 as either six or eight hexadecimal digits.<br>
 
 ## 📖 Answers
+<table>
+    <tr>
+        <th>Decimal</th>
+        <th>Binary</th>
+        <th>Hexadecimal</th>
+    </tr>
+    <tr><td>0</td><td>0b0000</td><td>0x0</td></tr>
+    <tr><td>1</td><td>0b0001</td><td>0x1</td></tr>
+    <tr><td>2</td><td>0b0010</td><td>0x2</td></tr>
+    <tr><td>3</td><td>0b0011</td><td>0x3</td></tr>
+    <tr><td>4</td><td>0b0100</td><td>0x4</td></tr>
+    <tr><td>5</td><td>0b0101</td><td>0x5</td></tr>
+    <tr><td>6</td><td>0b0110</td><td>0x6</td></tr>
+    <tr><td>7</td><td>0b0111</td><td>0x7</td></tr>
+    <tr><td>8</td><td>0b1000</td><td>0x8</td></tr>
+    <tr><td>9</td><td>0b1001</td><td>0x9</td></tr>
+    <tr><td>10</td><td>0b1010</td><td>0xA</td></tr>
+</table>
 
 <hr>
 📅 **Last Updated:** `2025-02-13`
